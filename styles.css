@@ -1,0 +1,102 @@
+body {
+    background: url(https://img.freepik.com/free-vector/background-design-with-violin-music-notes_1308-4592.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-left: 800px;
+}
+
+h1 {
+    color: #000;
+    text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+    font: 50px 'ChunkFiveRegular';
+}
+
+h3 {
+    color: white;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #f8ff2d, 0 0 30px #f8ff2d, 0 0 40px #f8ff2d, 0 0 50px #f8ff2d, 0 0 75px #f8ff2d;
+    letter-spacing: 5px;
+    font: 30px 'MisoRegular';
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+h4 {
+
+    color: #008000;
+    text-shadow: 0px -1px 4px white, 0px -2px 10px yellow, 0px -10px 20px #ff8000, 0px -18px 40px red;
+    font: 20px 'BlackJackRegular';
+}
+
+p {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+ol {
+    display: table;
+    margin: auto;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    list-style-type: upper-roman;
+}
+
+ul {
+    display: table;
+    margin: auto;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+ 
+}
+
+
+marquee {
+    color: skyblue;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    
+}
+
+a {
+    color: black;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+}
+
+iframe {
+    width: 300px;
+    height: 170px;
+    position: center;
+    position: absolute;
+    z-index: 1;
+    left: 460px;
+    top: 220px;
+    border-style: inset;
+    border-width: 4px;
+}
+
+img {
+    width: 300px;
+    height: 170px;
+    position: center;
+    position: absolute;
+    z-index: 1;
+    left: 460px;
+    top: 440px;
+    border-style: inset;
+    border-width: 4px;
+}
+
+.animal {
+    
+    width: 300px;
+    height: 220px;
+    position: center;
+    position: absolute;
+    z-index: 1;
+    left: 460px;
+    top: 660px;
+    border-style: inset;
+    border-width: 4px;
+}
